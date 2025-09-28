@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Lovepreet Singh",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "ticket_id": "your_ticket_id",
+        "user_id": "abcdefgh",
+        "sources": null,
+        "date_of_travel": 1702060200000,
+        "train": {
+          "train_no": "12345",
+          "seats": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "station_times": {
+            "Bangalore": "13:50:00",
+            "Jaipur": "13:50:00",
+            "Delhi": "13:50:00"
+          },
+          "stations": [
+            "Bangalore",
+            "Jaipur",
+            "Delhi"
+          ],
+          "train_info": "Train ID: null Train No: 12345",
+          "ticket_id": null
+        },
+        "destination": "Delhi",
+        "ticket_info": "Ticket ID: your_ticket_id belongs to User abcdefgh from null to Delhi on Sat Dec 09 00:00:00 IST 2023"
+      }
+    ],
+    "user_id": "abcdefgh"
+  },
+  {
+    "name": "rahul",
+    "password": "hhbb11",
+    "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+    "tickets_booked": [],
+    "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+  },
+  {
+    "name": "Aneesh",
+    "password": "Aneesh@00789",
+    "hashed_password": "$2a$10$Zoyqos656n.foHk1CthlheBChQK/NagbzopMar5h3wQ0A49PVbatC",
+    "tickets_booked": [],
+    "user_id": "486f8b38-f99f-4661-9314-b2c773eac21f"
+  }
+]
