@@ -1,0 +1,1 @@
+Checking out some Java concepts while building this console based train ticket booking management. Time to start with Springboot I guess, need to check out multi-threading before that though.
